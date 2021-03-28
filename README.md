@@ -23,3 +23,12 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 ```
+
+## Installation
+
+Running 'npm install' in the source directory will install required prerequisites.
+
+Once you have the database created, you can seed it by running "npm run seed".
+
+Next, run "npm start"
+
